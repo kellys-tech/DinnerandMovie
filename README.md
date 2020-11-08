@@ -1,6 +1,6 @@
 # D&M (Dinner and a Movie)
-### Pages: https://japb1998.github.io/1_GroupProyect/
-### GitHubRepo: https://github.com/japb1998/1_GroupProyect
+### Pages: https://kellys-tech.github.io/DinnerandMovie/movies.html
+### GitHubRepo: https://github.com/kellys-tech/DinnerandMovie
 
 
 *Welcome to Dinner and a Movie (D&M). Planning a date? Evening with friends? Last minute plans? Home alone? A person can utilize this app to generate a list of movies to watch and/or meals to make at home.
